@@ -4,6 +4,7 @@
 
 
 🚀 About Me
+
 🌱 Currently mastering Java with Spring Boot for backend development and sharpening my frontend development.
 
 🧠 Deeply interested in JDBC, Cloud Deployment, and developing RESTful APIs that are scalable and reliable.
@@ -14,6 +15,7 @@
 
 
 🛠️ Technologies & Tools
+
 Frontend
 HTML5 • CSS3 • JavaScript 
 
@@ -44,6 +46,7 @@ o	Outcome: During face recognition, it compares live webcam input with the train
 
 
 📬 Connect with Me
+
 💼 LinkedIn: www.linkedin.com/in/sadhana-k-m-230519261 
 
 🌐 Portfolio: [Your Portfolio Link]
@@ -52,4 +55,5 @@ o	Outcome: During face recognition, it compares live webcam input with the train
 
 
 💡 Fun Fact
+
 When I'm not coding, I enjoy [Shuttle,Licnesing to music], which inspires creativity in my tech work!
